@@ -1,41 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
 	<channel>
+	<title>Harry Potter audiobooks</title>
+	<link>https://github.com/ilylia666/website</link>
+	<language>en-us</language>
+	<atom:link href="https://github.com/ilylia666/website/xmlxml.xml" rel="self" type="application/rss+xml"/>
+	<itunes:subtitle>audiobooks</itunes:subtitle>
+	<itunes:author>J.K Rowling, Stephen Fry</itunes:author>
+	<itunes:summary>
+	Incredibly powerful motivational and inspirational speeches.
+	</itunes:summary>
+	<itunes:keywords>sounds</itunes:keywords>
+	<description>
+	Harry Potter audiobooks
+	</description>
+	<itunes:owner>
+	<itunes:name>Ily Lia</itunes:name>
+	<itunes:email>ilylia666@gmail.com</itunes:email>
+	</itunes:owner>
+	<itunes:image href="https://upload.wikimedia.org/wikipedia/en/5/5c/Harry_Potter_and_the_Chamber_of_Secrets.jpg"/>
+	<itunes:category text="Books">
+		<itunes:category text="Young Adult"/>
+	</itunes:category
+	<itunes:explicit>no</itunes:explicit>
+<item>
+<link>https://ilylia666.github.io/website</link>
+<itunes:author>J.K Rowling, Stephen Fry</itunes:author>
+<title>Chapter 3 - The Burrow</title>
+<itunes:subtitle>The Burrow</itunes:subtitle>
+<itunes:summary> The Burrow</itunes:summary>
+<description> The Burrow </description>
+<enclosure url='https://ipaudio3.club/wp-content/uploads/STEPHEN/HP%20FRY/SECRETS/03%20THE%20BURROW.mp3' length='7575621' type='audio/mpeg'/>
+<itunes:duration>546.216</itunes:duration>
+<guid isPermaLink='false'>https://ipaudio3.club/wp-content/uploads/STEPHEN/HP%20FRY/SECRETS/03%20THE%20BURROW.mp3</guid>
+<pubDate>Sat Nov 14 20:25:27 2020</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
 
-		<!-- GENERAL INFORMATION ABOUT THE PODCAST -->
-		<title>Title of Podcast</title>
-		<link>http://www.example.com/<link>
-		<language>en-us</language>
-		<itunes:subtitle>Subtitle of podcast</itunes:subtitle>
-		<itunes:author>Author Name</itunes:author>
-		<itunes:summary>Description of podcast.</itunes:summary>
-		<description>Description of podcast.</description>
-		<itunes:owner>
-			<itunes:name>Owner Name</itunes:name>
-			<itunes:email>me@example.com</itunes:email>
-		</itunes:owner>
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:image href="https://upload.wikimedia.org/wikipedia/en/5/5c/Harry_Potter_and_the_Chamber_of_Secrets.jpg" />
-		<itunes:category text="Category Name"/></itunes:category>
-		<!-- END GENERAL INFO -->
-
-		<!--REPEAT THIS BLOCK FOR EACH EPISODE-->
-		<item>
-			<title>Chapter 3 - The Burrow</title>
-			<itunes:summary>Description of podcast episode content</itunes:summary>
-			<description>Description of podcast episode content</description>
-			<link>http://example.com/podcast-1</link>
-			<!-- THE FOLLOWING LINE MUST CONTAIN THE URL TO THE AUDIO FILE -->
-			<enclosure url="https://ipaudio3.club/wp-content/uploads/STEPHEN/HP%20FRY/SECRETS/03%20THE%20BURROW.mp3" type="audio/mpeg" length="1024"></enclosure>
-			<pubDate>Thu, 21 Dec 2020 16:01:07 +0000</pubDate>
-			<itunes:author>Author Name</itunes:author>
-			<itunes:duration>00:32:16</itunes:duration>
-			<itunes:explicit>no</itunes:explicit>
-			<guid></guid>
-		</item> 
-		<!--END REPEAT--> 
-
-	</channel>
+</channel>
 
 </rss>
