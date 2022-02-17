@@ -18,9 +18,6 @@
 	<itunes:email>ilylia666@gmail.com</itunes:email>
 	</itunes:owner>
 	<itunes:image href="https://upload.wikimedia.org/wikipedia/en/5/5c/Harry_Potter_and_the_Chamber_of_Secrets.jpg"/>
-	<itunes:category text="Books">
-		<itunes:category text="Young Adult"/>
-	</itunes:category
 	<itunes:explicit>no</itunes:explicit>
 <item>
 <link>https://ilylia666.github.io/website</link>
@@ -30,9 +27,9 @@
 <itunes:summary> The Burrow</itunes:summary>
 <description> The Burrow </description>
 <enclosure url='https://ipaudio3.club/wp-content/uploads/STEPHEN/HP%20FRY/SECRETS/03%20THE%20BURROW.mp3' length='7575621' type='audio/mpeg'/>
-<itunes:duration>546.216</itunes:duration>
+<itunes:duration>00:21:06</itunes:duration>
 <guid isPermaLink='false'>https://ipaudio3.club/wp-content/uploads/STEPHEN/HP%20FRY/SECRETS/03%20THE%20BURROW.mp3</guid>
-<pubDate>Sat Nov 14 20:25:27 2020</pubDate>
+<pubDate>Sat, 14 Nov 2020 20:25:27 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
