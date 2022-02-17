@@ -17,8 +17,27 @@
 	<itunes:name>Ily Lia</itunes:name>
 	<itunes:email>ilylia666@gmail.com</itunes:email>
 	</itunes:owner>
-	<itunes:image href="https://upload.wikimedia.org/wikipedia/en/5/5c/Harry_Potter_and_the_Chamber_of_Secrets.jpg"/>
+	<itunes:image href="https://cdn.iconscout.com/icon/free/png-256/hogwarts-282183.png"/>
 	<itunes:explicit>no</itunes:explicit>
+
+<item>
+<link>https://ilylia666.github.io/website</link>
+<itunes:author>J.K Rowling, Stephen Fry</itunes:author>
+<title>Harry Potter 1 | Chapter 1 - The Boy Who Lived</title>
+<itunes:subtitle>The Boy Who Lived</itunes:subtitle>
+<itunes:summary>The Boy Who Lived</itunes:summary>
+<description>The Boy Who Lived</description>
+<enclosure url='https://ipaudio3.club/wp-content/uploads/STEPHEN/HP%20FRY/STONE/01%20THE%BOY%20WHO%20LIVED.mp3' length='7575621' type='audio/mpeg'/>
+<itunes:duration>00:21:06</itunes:duration>
+<guid isPermaLink='false'>https://ipaudio3.club/wp-content/uploads/STEPHEN/HP%20FRY/STONE/01%20THE%BOY%20WHO%20LIVED.mp3</guid>
+<pubDate>Sat, 17 Nov 2021 20:25:27 +0100</pubDate>
+<itunes:explicit>no</itunes:explicit>
+<image>
+<url>https://upload.wikimedia.org/wikipedia/en/6/6b/Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg</url>
+<title>Harry Potter and the sorcerers stone</title>
+</image>
+</item>
+
 <item>
 <link>https://ilylia666.github.io/website</link>
 <itunes:author>J.K Rowling, Stephen Fry</itunes:author>
@@ -31,6 +50,10 @@
 <guid isPermaLink='false'>https://ipaudio3.club/wp-content/uploads/STEPHEN/HP%20FRY/SECRETS/03%20THE%20BURROW.mp3</guid>
 <pubDate>Sat, 16 Nov 2021 20:25:27 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
+<image>
+<url>https://upload.wikimedia.org/wikipedia/en/5/5c/Harry_Potter_and_the_Chamber_of_Secrets.jpg</url>
+<title>Harry Potter and the chamber of secrets</title>
+</image>
 </item>
 
 <item>
@@ -45,6 +68,10 @@
 <guid isPermaLink='false'>https://ipaudio3.club/wp-content/uploads/STEPHEN/HP%20FRY/SECRETS/04%20AT%20FLOURISH%20AND%20BLOTTS.mp3</guid>
 <pubDate>Sat, 17 Nov 2021 20:25:27 +0100</pubDate>
 <itunes:explicit>no</itunes:explicit>
+<image>
+<url>https://upload.wikimedia.org/wikipedia/en/5/5c/Harry_Potter_and_the_Chamber_of_Secrets.jpg</url>
+<title>Harry Potter and the chamber of secrets</title>
+</image>
 </item>
 
 </channel>
