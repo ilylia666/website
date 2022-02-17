@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+	<channel>
+
+		<!-- GENERAL INFORMATION ABOUT THE PODCAST -->
+		<title>Title of Podcast</title>
+		<link>http://www.example.com/<link>
+		<language>en-us</language>
+		<itunes:subtitle>Subtitle of podcast</itunes:subtitle>
+		<itunes:author>Author Name</itunes:author>
+		<itunes:summary>Description of podcast.</itunes:summary>
+		<description>Description of podcast.</description>
+		<itunes:owner>
+			<itunes:name>Owner Name</itunes:name>
+			<itunes:email>me@example.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="https://upload.wikimedia.org/wikipedia/en/5/5c/Harry_Potter_and_the_Chamber_of_Secrets.jpg" />
+		<itunes:category text="Category Name"/></itunes:category>
+		<!-- END GENERAL INFO -->
+
+		<!--REPEAT THIS BLOCK FOR EACH EPISODE-->
+		<item>
+			<title>Chapter 3 - The Burrow</title>
+			<itunes:summary>Description of podcast episode content</itunes:summary>
+			<description>Description of podcast episode content</description>
+			<link>http://example.com/podcast-1</link>
+			<!-- THE FOLLOWING LINE MUST CONTAIN THE URL TO THE AUDIO FILE -->
+			<enclosure url="https://ipaudio3.club/wp-content/uploads/STEPHEN/HP%20FRY/SECRETS/03%20THE%20BURROW.mp3" type="audio/mpeg" length="1024"></enclosure>
+			<pubDate>Thu, 21 Dec 2020 16:01:07 +0000</pubDate>
+			<itunes:author>Author Name</itunes:author>
+			<itunes:duration>00:32:16</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<guid></guid>
+		</item> 
+		<!--END REPEAT--> 
+
+	</channel>
+
+</rss>
